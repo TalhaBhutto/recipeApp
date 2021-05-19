@@ -9,4 +9,8 @@ function CategoryMealsScreen() {
     )
 }
 
+styles=StyleSheet.create({
+
+});
+
 export default CategoryMealsScreen
