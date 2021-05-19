@@ -9,4 +9,8 @@ function FiltersScreen() {
     )
 }
 
+styles=StyleSheet.create({
+
+});
+
 export default FiltersScreen

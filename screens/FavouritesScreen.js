@@ -9,4 +9,8 @@ function FavouritesScreen() {
     )
 }
 
+styles=StyleSheet.create({
+
+});
+
 export default FavouritesScreen

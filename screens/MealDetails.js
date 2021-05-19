@@ -9,4 +9,8 @@ function MealDetails() {
     )
 }
 
+styles=StyleSheet.create({
+
+});
+
 export default MealDetails
