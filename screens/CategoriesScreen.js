@@ -1,10 +1,10 @@
 import React from 'react'
 import {View,Text,StyleSheet} from 'react-native';
 
-function CategoriesScreen() {
+function CategoriesScreen(props) {
     return (
         <View style={styles.screen} >
-            
+            <Text>The Category Screen</Text>
         </View>
     )
 }
