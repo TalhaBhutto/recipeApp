@@ -3,9 +3,9 @@ import {View,Text,StyleSheet} from 'react-native';
 
 function CategoryMealsScreen() {
     return (
-        <div>
+        <View>
             
-        </div>
+        </View>
     )
 }
 
