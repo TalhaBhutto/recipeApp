@@ -3,9 +3,9 @@ import {View,Text,StyleSheet} from 'react-native';
 
 function FavouritesScreen() {
     return (
-        <div>
+        <View>
             
-        </div>
+        </View>
     )
 }
 
