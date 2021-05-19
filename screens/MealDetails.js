@@ -3,9 +3,9 @@ import {View,Text,StyleSheet} from 'react-native';
 
 function MealDetails() {
     return (
-        <div>
+        <View>
             
-        </div>
+        </View>
     )
 }
 

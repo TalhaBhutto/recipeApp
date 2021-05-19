@@ -3,9 +3,9 @@ import {View,Text,StyleSheet} from 'react-native';
 
 function FiltersScreen() {
     return (
-        <div>
+        <View>
             
-        </div>
+        </View>
     )
 }
 

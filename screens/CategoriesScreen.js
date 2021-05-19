@@ -9,4 +9,8 @@ function CategoriesScreen() {
     )
 }
 
+styles=StyleSheet.create({
+
+});
+
 export default CategoriesScreen
