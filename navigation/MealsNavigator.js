@@ -11,4 +11,4 @@ const MealsNavigator = createStackNavigator({
     },
     MealDetail:MealDetails,
 });
-export default MealsNavigator;
+export default  MealsNavigator;
